@@ -6,37 +6,42 @@ This is the result of a NaNoGenMo project to generate the first line of a novel.
 At the beginning of November, a tiny dataset produced mixed results in my first attempt to generate the first sentence of a novel http://aiweirdness.com/post/167049313837/a-neural-network-tries-writing-the-first-sentence
 
 Highlights:
-There was a man and he had seventy first sight.
-It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of my life, fire of my loins.
+
+> There was a man and he had seventy first sight.
+
+> It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of my life, fire of my loins.
+
 Lowlights:
-Stop! I caused the Narguuse man who was new on Alabama, the screaming constipated eggs.
-I am an angry grass, the symposium square, proved fatal to the throbbing, the howling wind tire…
+
+> Stop! I caused the Narguuse man who was new on Alabama, the screaming constipated eggs.
+> I am an angry grass, the symposium square, proved fatal to the throbbing, the howling wind tire…
+
 The really big repositories I've found (Project Gutenburg, for example) are formatted inconsistently enough that they're difficult to scrape.
 
 So I crowdsourced a larger dataset: https://docs.google.com/forms/d/e/1FAIpQLScod8P-kcLX98u6gT0rX6-20GwkDo_glz-okVVkrhr6KgQONQ/viewform. 
-It has been posted since the first week of November 2017 and as of 28 November 2017 has 11135 submissions (not all unique). 
-The form is still open for submissions, and I may update this repository from time to time if the dataset size grows significantly.
-
+It has been posted since the first week of November 2017 and as of 28 November 2017 has 11,135 submissions (not all unique). 
+The form is still open for submissions, and I may update this repository from time to time if the dataset size grows significantly. 
 Dataset stats:
-11135 entries, some with authors and titles included
-Some are from existing books; some are from in-progress manuscripts; some are from short stories.
-Names of authors and titles are not standardized, nor are typos corrected.
-Almost all entries are in English.
+
+- 11135 entries, some with authors and titles included
+- Some are from existing books; some are from in-progress manuscripts; some are from short stories.
+- Names of authors and titles are not standardized, nor are typos corrected.
+- Almost all entries are in English.
 
 Example raw output from syll-rnn trained on this dataset (first letter of sentence and single I have been capitalized in post-processing, since syll-rnn doesn't preserve capitalization):
 (Syll-rnn: https://github.com/learningtitans/torch-rnn/blob/valle-syllables/doc/flags.md#preprocessing )
 
-Tacosset the comlowing with the first thing I have been required in the world.
+> Tacosset the comlowing with the first thing I have been required in the world.
 
-Nothing of his brother, the path in the year of the pink world.
+> Nothing of his brother, the path in the year of the pink world.
 
-"ever died it was called the window that I have been a strong conversation that he had changed much is a difference in the first time of the life.
+> "ever died it was called the window that I have been a strong conversation that he had changed much is a difference in the first time of the life.
 
-The studio was an expression to hear that he is a word and just the tour.
+> The studio was an expression to hear that he is a word and just the tour.
 
-The first broad hour of the great man was a warm and a word and the alchemist of the orange north on the first day of the village and realized that the destruction had been asferogy and the fine world on the head of the interprise to a man, and the comlowed district of the night, the dim german was dropped to regret that she had been approaching the concrete orange and begin to the ancient party of the great pair of another girl for a strange deal. 
+> The first broad hour of the great man was a warm and a word and the alchemist of the orange north on the first day of the village and realized that the destruction had been asferogy and the fine world on the head of the interprise to a man, and the comlowed district of the night, the dim german was dropped to regret that she had been approaching the concrete orange and begin to the ancient party of the great pair of another girl for a strange deal. 
 
-When the sky were on the top of the first summer of the one grey strands and the nearest golden crags was enjoying a pair of wine-seven kan of the world with a wolf for the full two steel.
+> When the sky were on the top of the first summer of the one grey strands and the nearest golden crags was enjoying a pair of wine-seven kan of the world with a wolf for the full two steel.
 
 The last thing of a man who was a bactrian for the west.
 
