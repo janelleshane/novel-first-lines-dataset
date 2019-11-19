@@ -90,10 +90,13 @@ Example raw output from syll-rnn trained on this dataset (first letter of senten
 **2019: GPT-2**
 
 
-**Output files: iteration150_temperature0p8_ancient.txt
-                iteration150_temperature0p8_ponies.txt
-                iteration150_temperature0p8_potter.txt
-                iteration150_temperature0p8_victorian.txt**
+**Output files: iteration150_temperature0p8_ancient.txt**
+
+**iteration150_temperature0p8_ponies.txt**
+                
+**iteration150_temperature0p8_potter.txt**
+                
+**iteration150_temperature0p8_victorian.txt**
 
 For 2019, I decided to revisit this dataset with a larger, more-powerful neural net called GPT-2. Unlike most of the neural nets that came earlier, GPT-2 can write entire essays with readable sentences that stay mostly on topic (even if it has a tendency to lose its train of thought or get very weird). I trained the largest size that was easily fine-tunable via GPT-2-simple, the 355M size of GPT-2.
 
@@ -115,7 +118,7 @@ Lowlights:
 
 For examples of raw data, see below.
 
-Although the sentences are independent in my training data, GPT-2 is used to large blocks of text that go together. The result is if I prompt it instead with, say, a line from Harry Potter fanfic, the neural net will tend to stick with that vein for a while. The raw output files therefore have different flavors.
+Although the sentences are independent in my training data, GPT-2 is used to large blocks of text that go together. The result is if I prompt it instead with, say, a line from Harry Potter fanfic, the neural net will tend to stick with that vein for a while. The raw output files therefore have different flavors. I chose a temperature setting of 0.8, and used the default truncation setting of 0.
 
 **ancient**
 
