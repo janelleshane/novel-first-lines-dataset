@@ -144,19 +144,33 @@ prompt: "Twilight Sparkle was out of cupcakes."
 Example raw output:
 
 > Twilight Sparkle was out of cupcakes. Her sister had been pacing the downstairs hallway for hours, still staring up at the giant dragon sitting on the doorstep.
+
 > Before that day, whatever could happen to a life that was all over?
+
 > In her younger and more vulnerable years, Luna had never held a weapon above her head.
+
 > For a moment, everyone sat in silence.
+
 > Pinkie Pie had seen the white sapland before, but she hadn't known what it was, or why people did what they did.
+
 > Good evening, birds of a feather and noisome beasts of the night.
+
 > The sun rose into the sky as the first dark clouds of the summer began to move into the west.
+
 > The ponies had been lucky in the past.
+
 > Lumiere was tired of having to watch as the sun rose, sunlit and golden.
+
 > "By the way, the cellars kind of sound familiar, don't they?"
+
 > Titan stood on the ledge of the blackened hills and watched his father's enormous creations, the Titans.
+
 > "Twilight, you seem to be having a lot of trouble remembering the names of all the other ponies that you've met."
+
 > "Forget me, Twilight, you're not helping."
+
 > "I'm sorry, it's just--"
+
 > An eternian pony with platinum white irises and a veneer of gentleness, Twilight Sparkle sat down in a court of mirrors and stared into the distance, unable to stop smiling.
 
 **potter**
@@ -164,19 +178,33 @@ Example raw output:
 prompt: "Harry glared at Snape, vigorously stirring the bowl of frosting."
 
 Example raw output:
+
 > Harry glared at Snape, vigorously stirring the bowl of frosting.
+
 > The night was cool and grey, the light of bare emeralds taken from the sky by the wind and the wind's unforgiving glare by the moon.
+
 > "Do you have any idea how much I love to teach you, Mr. Snape?"
+
 > The dog barked and licked its lips, the fierce teeth bared at the end of their teeth like two great metallic vipers.
+
 > "Does this baby have any legs?"
+
 > On his interviewers his face was marked and he didn't have the faintest idea of how to make it look serious.
+
 > "I'll have you know that I have many things in mind," said the elf, looking up from his book, and slumped back onto the ground.
+
 > The morning air was crisp and clear and spring had finally begun to turn into summer.
+
 > Harry Potter, Harry Potter, it is a wonderful day.
+
 > Luna, Rose, and Albus were sitting around the table reading the 'Charing Cross Statement', an old school work of fiction.
+
 > "This is a man."
+
 > "Murdy first, then Victorian."
+
 > The wretched prisoner was chained to the wall of the dungeons, his head in a snare.
+
 > Mudflats blinked and blinked and backflipped and scrambled around in circles, hoping the dream would return.
 
 **victorian**
@@ -184,15 +212,27 @@ Example raw output:
 prompt: "It is a truth universally acknowledged"
 
 Example raw output:
+
 > It is a truth universally acknowledged' that those who studied astronomy for two years were obliged to study it to the very nth day: and it was impossible to expound it without the aid of an archangel.
+
 > At the end, when the stars and storks had all fled from the village, and the sun was sinking slowly upon the high green hills of the meadow, the eldest son of one of the most prosperous families of Aldor, in the bleak and barren district of the Thames, went to bed a little early by the fire.
+
 > The wood where the sun did not shine was scorched and dark, and the great and deep rivers and streams that ran through the scrub and beneath the trees were little more than dead and mottled masses.
+
 > The young man was sitting on the dark wood, looking up at the vast black sky.
+
 > On the very day when an ordinary young man should be, at any rate very much at any rate, in want of every material requisite for a comfortable existence, and about to be obliged to leave his childhood home and his family for want of another, he happened to meet, in a car after the usual course of a journey, a child who was neither of his age nor of his nature, but of a disposition, and of a temper, and of a disposition to be of great service to his father—a disposition which he did not then realise, in the least degree, and which was at once incontestable, and which, without any intervention, must eventually acquire such a character of maladjustment as to render the child incapable of perfectly normal calculations, or of practically executing any combination of operations which, it is needless whatsoever to observe, are usually productive of mental exertion.
+
 > The sky was alive with a corporeal quality, supple and soft, and penetrating, and moving, and at the same time inscrutably mysterious, and full of life as though living, and for which, either from its own nature or the force of its surroundings, it was unable to escape; an air of life and life of life, as though the world were alive, pervaded with the life of life, and as though it were alive, or at any rate had the figure of life.
+
 > The air was dry, clean, and cool, and the only thing that mattered in the world was the ability to get along after dark.
+
 > The dinner party was over.
+
 > A curtain of haze hung in the distance.
+
 > For a fleeting instant, there was an endless sea, a grey and black sea, stretching in all directions towards the stars.
+
 > At first dawn, when the sun rose over the western coast of the Thinye Empire, men of means and ability distinguished themselves by the most unexpected of honours—and they generally differed from one another in no respect.
+
 > The gilt on the marble walls, the crystal gleaming on the towers, the gold in the moorings of every vessel—as much gold as was required in the year 1500—were a testimony to the high standard of artistic craftsmanship that characterized the city of Soi Zhong, and, indeed, of the entire empire, in which I was born.
