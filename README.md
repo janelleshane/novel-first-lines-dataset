@@ -124,17 +124,29 @@ prompt: "It is a terrible, terrible idea, even if entirely accidental, to talk t
 Example raw output:
 
 > It is a terrible, terrible idea, even if entirely accidental, to talk to one of the Ancient Ones.
+
 > He spent all of eternity on a wooden platform suspended by four legs.
+
 > It is a great privilege of a human being to die.
+
 > One bright and brilliant summer afternoon the sun was shining brightly on the dusty plains of the state of New Jersey, when the titanic beast arose, and, dragging its massive body with a morose and almost ungovernable stride, rose towards the great mountains.
+
 > The entrance to the Southern California Hotel, where the triple-decker trains of the East Coast converge, is a short, narrow hallway of narrow black glass.
+
 > It was a scene out of a slasher movie.
+
 > Pete urged his buggy along the dusty road to the mall.
+
 > In my early twenties I had always wanted to be a detective.
+
 > The state of the world is one of continued disaster.
+
 > It was the day I gave birth to the beautiful child I would call Louise.
+
 > I am in my grave, my mother tells me.
+
 > "We had great fun yesterday," said the boy I now know as Benny, "like we never had before."
+
 > He had only ten fingers on each hand, but he was a very good pianist.
 
 **ponies**
